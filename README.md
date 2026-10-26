@@ -4,7 +4,7 @@ JavaScript adalah bahasa pemograman yang jalannya di dalam browser. Fungsinya bu
 2. jQuery dan Kegunaannya
 jQuery adalah library atau pustaka kode siap pakai yang dibuat menggunakan JavaScript. Kegunaannya buat menyederhanakan penulisan kode JavaScript murni biar lebih pendek dan cepat, seperti pas memilih elemen HTML, bikin efek animasi, atau menangani event klik.
 
-Perbedaan JavaScript dan jQueryBentuk:
+   Perbedaan JavaScript dan jQueryBentuk:
 JavaScript adalah bahasa pemrogramannya, sedangkan jQuery adalah library buatan yang dibangun memakai JavaScript.   
 Ringkasnya Kode: JavaScript butuh beberapa baris kode yang agak panjang untuk memanipulasi elemen, sementara jQuery bisa jauh lebih ringkas menggunakan simbol $.   Ketergantungan: JavaScript langsung aktif bawaan browser, sedangkan jQuery butuh file library tambahan atau tautan CDN dulu baru bisa berjalan.   Kecepatan Proses: JavaScript murni jalannya lebih cepat karena diproses langsung oleh browser tanpa perantara library.  
 
